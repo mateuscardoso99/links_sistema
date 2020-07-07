@@ -1,4 +1,4 @@
-# links_sistema
+# sistema links
 
 sistema de gerenciamento de links em que o usuário pode gerenciar qualquer tipo de link, 
 tanto de redes sociais(facebook, instagram, twitter etc.) com links 
