@@ -11,3 +11,5 @@ o back-end foi criado em NodeJS e utilizando a biblioteca sequelize para a manip
 o projeto também conta com um sistema de autenticação JWT(JSON Web Tokens) para a validação dos  usuários
 
 abaixo o sistema em execução:
+
+![](20200707_193328.gif)
